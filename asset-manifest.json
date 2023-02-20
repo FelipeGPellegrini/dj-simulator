@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dj-simulator/static/css/main.afd62ab3.css",
+    "main.js": "/dj-simulator/static/js/main.b3014bcf.js",
+    "static/media/base2.mp3": "/dj-simulator/static/media/base2.a4e8e1aae311f1e5dbe3.mp3",
+    "static/media/base1.mp3": "/dj-simulator/static/media/base1.343227b82025ec0a33ea.mp3",
+    "static/media/hahahahaborges.mp3": "/dj-simulator/static/media/hahahahaborges.7d45ae7284c1bd1e5b8d.mp3",
+    "static/media/bitch.mp3": "/dj-simulator/static/media/bitch.284ce9cb9e8043e358cf.mp3",
+    "static/media/plug.mp3": "/dj-simulator/static/media/plug.0d7c5f89a92b9eb8217a.mp3",
+    "static/media/letsgo.mp3": "/dj-simulator/static/media/letsgo.31d7fc30f9db17dac14f.mp3",
+    "static/media/receba.mp3": "/dj-simulator/static/media/receba.45a6587d4927307d6ed3.mp3",
+    "static/media/ah.mp3": "/dj-simulator/static/media/ah.59c349873ffb968173b1.mp3",
+    "static/media/okay.mp3": "/dj-simulator/static/media/okay.6330669d9dcd5f77015e.mp3",
+    "static/media/boy.mp3": "/dj-simulator/static/media/boy.cf59fb72daa5f9a8b9cc.mp3",
+    "static/media/gemido.mp3": "/dj-simulator/static/media/gemido.06cd530a994ecc17488b.mp3",
+    "index.html": "/dj-simulator/index.html",
+    "main.afd62ab3.css.map": "/dj-simulator/static/css/main.afd62ab3.css.map",
+    "main.b3014bcf.js.map": "/dj-simulator/static/js/main.b3014bcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd62ab3.css",
+    "static/js/main.b3014bcf.js"
+  ]
+}
